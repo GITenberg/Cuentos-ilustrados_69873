@@ -1,0 +1,42 @@
+_repo: Cuentos-ilustrados_69873
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fabra, Nilo María
+    aliases:
+    - Fabra, Nilo Maria
+    - Deas, Nilo María Fabra y
+    birthdate: 1843
+    deathdate: 1903
+    gutenberg_agent_id: '55465'
+    url: http://www.gutenberg.org/2009/agents/55465
+    wikipedia: https://es.wikipedia.org/wiki/Nilo_Mar%C3%ADa_Fabra
+description: ''
+gutenberg_issued: '2023-01-24'
+identifiers:
+  gutenberg: '69873'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000252590
+pgterms:marc905: 20221220221812fabra
+pgterms:marc906: '1895'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: 'Spain: Imprenta de Henrich y C.ª,1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Spanish'
+- !lcsh 'Spanish fiction -- 19th century'
+- !lcsh 'Political fiction, Spanish'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Del Cielo a España -- Un diálogo en el espacio -- La caja de cerillas
+  -- Cuatro siglos de buen gobierno -- La taza de leche -- El Padre Carmelo -- El
+  triunfo de la Igualdad -- El hombre único -- Lo presente juzgado por lo porvenir
+  -- Un viaje a la República Argentina -- La Verdad desnuda -- La locura del anarquismo
+  -- Las tijeras -- En el planeta Marte -- El dragón de Montesa, o los rectos juicios
+  de la posteridad -- El Monstruo -- El fin de Barcelona.
+title: Cuentos ilustrados
+url: http://www.gutenberg.org/ebooks/69873
